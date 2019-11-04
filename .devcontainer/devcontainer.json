@@ -9,7 +9,8 @@
 	"settings": { 
 		"terminal.integrated.shell.linux": "/bin/bash",
 		"peacock.remoteColor": "#68217a",
-		"workbench.colorTheme": "Default Light+"
+		"workbench.colorTheme": "Default Light+",
+		"workbench.sideBar.location":"right"
 	},
 
 	// Uncomment the next line if you want to publish any ports.
